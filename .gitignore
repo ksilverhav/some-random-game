@@ -1,6 +1,6 @@
 
 *.class
-TheIncredibleGame/bin/*
+/bin/*
 # Package Files #
 *.jar
 *.war
